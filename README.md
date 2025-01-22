@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Julian Cao 👋
 
-<!--
-**Julian-Cao/Julian-Cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🌟 [Google Developer Expert](https://developers.google.com/profile/u/113745780895705509566)  
+👨‍💻 Independent AI Application Developer  
+📊 Head of Data & Analytics at [WPS Office](https://www.wps.com/)
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- 🏗️ Cloud Solution Architect
+- 🤖 Generative AI Application Development 
+- 📊 Data Science & Business Analytics (Data Collection, ETL, BI)
+- 🛠️ Google Products Technical Expert
+
+</td>
+<td width="50%" valign="top">
+
+## Expertise
+### 🌩️ Cloud & Development
+- [Google Cloud Platform](https://cloud.google.com/)
+- [Cloud Run](https://cloud.google.com/run)
+- [Firebase](https://firebase.google.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- Learning ([Next.js](https://nextjs.org/), [React](https://reactjs.org/))
+
+### 📊 Data & Analytics
+- [BigQuery](https://cloud.google.com/bigquery)
+- [Looker](https://looker.com/)
+- [Google Analytics 4](https://analytics.google.com/)
+- Data Science & Python Development
+
+### 🤖 AI & Workspace
+- Gen AI ([OpenAI](https://openai.com/), [Claude](https://anthropic.com/claude), [Gemini](https://deepmind.google/technologies/gemini/))
+- [Google Workspace](https://workspace.google.com/)
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+## Connect With Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/julian_ai_data)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jianglancao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jianglancao/)
+
+---
+📫 How to reach me: DM me on [Twitter](https://x.com/julian_ai_data) or connect on [LinkedIn](https://www.linkedin.com/in/jianglancao/)
