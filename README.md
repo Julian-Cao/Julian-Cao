@@ -2,18 +2,35 @@
 
 ## About Me
 🌟 [Google Developer Expert](https://developers.google.com/profile/u/113745780895705509566)  
+🏆 [Google Cloud Champion Innovator](https://cloud.google.com/innovators/innovator?profileId=113745780895705509566&hl=en)  
 👨‍💻 Independent AI Application Developer  
 📊 Head of Data & Analytics at [WPS Office](https://www.wps.com/)
+
+<img src="https://github.com/user-attachments/assets/8591413f-f835-4e94-a2eb-fe014279ee61" width="700" alt="profile image">
+
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ## What I Do
-- 🏗️ Cloud Solution Architect
-- 🤖 Generative AI Application Development 
-- 📊 Data Science & Business Analytics (Data Collection, ETL, BI)
-- 🛠️ Google Products Technical Expert
+### 🏗️ Cloud Architecture
+- Design and implement scalable cloud solutions
+- Serverless architecture with Cloud Run
+- Multi-cloud strategy planning
+- Cost optimization and performance tuning
+
+### 🤖 AI Development
+- Gen AI application development
+- LLM integration and fine-tuning
+- Custom AI solution architecture
+- MLOps and model deployment
+
+### 📊 Data Analytics
+- End-to-end data pipeline design
+- Business intelligence implementation
+- Data warehouse optimization
+- Analytics and tracking solutions
 
 </td>
 <td width="50%" valign="top">
