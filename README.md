@@ -6,7 +6,7 @@
 👨‍💻 Independent AI Application Developer  
 📊 Head of Data & Analytics at [WPS Office](https://www.wps.com/)
 
-<img src="https://github.com/user-attachments/assets/8591413f-f835-4e94-a2eb-fe014279ee61" width="700" alt="profile image">
+<img src="https://github.com/user-attachments/assets/8591413f-f835-4e94-a2eb-fe014279ee61" width="600" alt="profile image">
 
 
 <table>
