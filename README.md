@@ -1,7 +1,7 @@
 # Hi, I'm Julian Cao 👋
 
 ## About Me
-🌟 [Google Developer Expert](https://developers.google.com/profile/u/113745780895705509566)  
+🌟 [Google Developer Expert(AI & Cloud)](https://developers.google.com/profile/u/113745780895705509566)  
 🏆 [Google Cloud Champion Innovator](https://cloud.google.com/innovators/innovator?profileId=113745780895705509566&hl=en)  
 👨‍💻 Independent AI Application Developer  
 📊 Head of Data & Analytics at [WPS Office](https://www.wps.com/)
