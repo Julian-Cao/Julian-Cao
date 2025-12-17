@@ -41,7 +41,7 @@
 - [Cloud Run](https://cloud.google.com/run)
 - [Firebase](https://firebase.google.com/)
 - [FastAPI](https://fastapi.tiangolo.com/)
-- Learning ([Next.js](https://nextjs.org/), [React](https://reactjs.org/))
+- [Next.js](https://nextjs.org/), [React](https://reactjs.org/)
 
 ### 📊 Data & Analytics
 - [BigQuery](https://cloud.google.com/bigquery)
